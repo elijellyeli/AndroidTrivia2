@@ -13,3 +13,10 @@ screens. Each screen is implemented as a fragment.
 
 The app navigates using buttons, the app bar, and a navigation drawer. Because
  
+ Screenshots
+ 
+ ![Screen #1](screenshots/Trivia.jpg)
+ ![Screen #2](screenshots/Trivia2.jpg)
+ ![Screen #3](screenshots/Trivia3.jpg)
+ ![Screen #4](screenshots/Trivia4.jpg)
+ 
